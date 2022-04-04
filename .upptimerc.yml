@@ -3,12 +3,16 @@ owner: fermunozfbb # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Openbank produccion
     url: https://www.openbank.es/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Openbank ocu
+    https://www.ocu.openbank.es/
+  - name: Desmotivadores
+    https://despair.com/
+  - name: Prosegur
+    https://www.prosegur.es/
+  - name: Quiron
+    https://www.quironsalud.es/
     
 asignees: fermunozfbb
 
@@ -20,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: My first status page
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Prueba de las moviditas que encuentra Antonio frikeando por internet :)
   navbar:
     - title: Status
       href: /

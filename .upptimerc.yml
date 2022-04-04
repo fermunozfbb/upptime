@@ -6,13 +6,13 @@ sites:
   - name: Openbank produccion
     url: https://www.openbank.es/
   - name: Openbank ocu
-    https://www.ocu.openbank.es/
+    url: https://www.ocu.openbank.es/
   - name: Desmotivadores
-    https://despair.com/
+    url: https://despair.com/
   - name: Prosegur
-    https://www.prosegur.es/
+    url: https://www.prosegur.es/
   - name: Quiron
-    https://www.quironsalud.es/
+    url: https://www.quironsalud.es/
     
 asignees: fermunozfbb
 

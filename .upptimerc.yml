@@ -22,7 +22,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: My first status page
+  name: UST demo status page
   introTitle: "Ejemplo de pagina de monitoring con **Upptime**"
   introMessage: Moviditas que encuentra Antonio frikeando por internet :)
   navbar:
